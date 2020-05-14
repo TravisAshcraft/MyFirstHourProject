@@ -1044,3 +1044,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.14-03.29.33:796][336]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
 [2020.05.14-03.29.33:796][336]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
 [2020.05.14-03.29.54:779][626]LogSlate: Window 'Source Control Login' being destroyed
+[2020.05.14-03.30.45:636][873]LogSlate: Window 'Content Browser' being destroyed
+[2020.05.14-03.30.45:644][873]LogSlate: Window 'Content Browser' being destroyed
